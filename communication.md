@@ -13,8 +13,9 @@ description: Information about Campuswire and Coursera.
 
 ## Staff Office Hour:
 
+
 | Name | Office Hour time | Link |
-|------|------------------|------|
+| --- | --- | --- |
 {% for staffer in site.staffers %}
 | {{ staffer.name }} | {{ staffer.officehour }} | {{ staffer.officehourlink }}
 {% endfor %}

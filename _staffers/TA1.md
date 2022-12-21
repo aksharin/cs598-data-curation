@@ -1,8 +1,8 @@
 ---
-name: Really Evil Kevin
+name: Sample Name
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
+website: 
 photo: kevin.jpg
 ---
 

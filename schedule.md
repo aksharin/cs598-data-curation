@@ -19,25 +19,25 @@ description: The weekly event schedule.
 | |2|What is data science?|<a href = "https://uofi.box.com/s/y6a59eg6qc2knvjo57lxma5dotrz7tdg">pdf</a>| | | 
 | |3|What is data curation?|<a href = "https://uofi.box.com/s/uhjsoyxcnuowpqm1gghs3x8wmkdm1wy7">pdf</a>| | | 
 | |4|Objectives, Activities and Methods|<a href = "https://uofi.box.com/s/o0khnu62bw1wyxcn9pkqsx4y38g8imr1 ">pdf</a>| | | 
-| |5|Organizations, Conferences and Literature|<a href = "">pdf</a>| | |
+| |5|Organizations, Conferences and Literature|<a href = "https://uofi.box.com/s/iyoey8hftph6k7w3usekom4dhvy2rexg">pdf</a>| | |
 |Week 2|1|Week 2 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 2 Quiz| 
-| |2|Data Models|pdf</a>| | |
-| |3|The Problem|pdf</a>| | |
-| |4|The Relational Model|<a href = "">pdf</a>| | | 
-| |5|How is the Relational Model Implemented?|<a href = "">pdf</a>| | | 
-| |6|Abstraction, Indirection &amp; Data Independence|<a href = "">pdf</a>| | |
+| |2|Data Models|<a href = "https://uofi.box.com/s/pk6nhsbmbaov2mekgu5jebky4aoqe7tu">pdf</a>| | |
+| |3|The Problem|<a href = "https://uofi.box.com/s/rosbg45bqvmjjb01wjdpiewdsdox846x">pdf</a>| | |
+| |4|The Relational Model|<a href = "https://uofi.box.com/s/m42ubdod0d4m47y6dhk0sl0q32du7svc">pdf</a>| | | 
+| |5|How is the Relational Model Implemented?|<a href = "https://uofi.box.com/s/eszrhhi9d402jh3b54zjug4bc512n82s">pdf</a>| | | 
+| |6|Abstraction, Indirection &amp; Data Independence|<a href = "https://uofi.box.com/s/q4xlmezecqaa9s46idstjl5gk73r64jg">pdf</a>| | |
 |Week 3|1|Week 3 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 3 Quiz| 
-| |2|Text and Documents|<a href = "">pdf</a>| | | 
-| |3|The Problem|<a href = "">pdf</a>| | |
-| |4|The Solution: (1) Descriptive Markup|<a href = "">pdf</a>| | | 
-| |5|The Solution: (2) Trees|<a href = "">pdf</a>| | | 
-| |6|Why The Solution Works|<a href = "">pdf</a>| | | 
-| |7|Implementing The Solution: XML|<a href = "">pdf</a>| | | 
+| |2|Text and Documents|<a href = "https://uofi.box.com/s/yd5m2fih1yimywz2bs13juv6dv6p7hxc">pdf</a>| | | 
+| |3|The Problem|<a href = "https://uofi.box.com/s/t9qapepzbs4ximm3yu0pu3z9zpnfpb75">pdf</a>| | |
+| |4|The Solution: (1) Descriptive Markup|<a href = "https://uofi.box.com/s/pu78sfoxbu917ifq8i07tidfktabm9eb">pdf</a>| | | 
+| |5|The Solution: (2) Trees|<a href = "https://uofi.box.com/s/9ft4i7lov0c2ff08mc8bj3cclgtpt5qu">pdf</a>| | | 
+| |6|Why The Solution Works|<a href = "https://uofi.box.com/s/ybmcr24nts13040e2jj3it5hx4mggdxv">pdf</a>| | | 
+| |7|Implementing The Solution: XML|<a href = "https://uofi.box.com/s/cnj2unli8jpeegk0xi6tnmcf8wzw09tm">pdf</a>| | | 
 |Week 4|1|Week 4 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 4 Quiz| 
-| |2|The Problem: Connecting Data to Information|<a href = "">pdf</a>| | | 
-| |3|The Solution: Ontologies|<a href = "">pdf</a>| | | 
-| |4|An ER/Ontology Example: FRBR|<a href = "">pdf</a>| | | 
-| |5|Implementing Ontologies in RDF/RDFS|<a href = "">pdf</a>| | | 
+| |2|The Problem: Connecting Data to Information|<a href = "https://uofi.box.com/s/olu2a1125t5lovv6vi287pxiplq66pub">pdf</a>| | | 
+| |3|The Solution: Ontologies|<a href = "https://uofi.box.com/s/21p5er23idqgtwc4kakgsl5hduitjkgq">pdf</a>| | | 
+| |4|An ER/Ontology Example: FRBR|<a href = "https://uofi.box.com/s/e44z4h56zmi1iogesy942a69u81ypnp5">pdf</a>| | | 
+| |5|Implementing Ontologies in RDF/RDFS|<a href = "https://uofi.box.com/s/ihv3u4dou3pd96jlt4j201c3ugwph0gu">pdf</a>| | | 
 |Week 5|1|Week 5 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 5 Quiz| 
 | |2|Data Cleaning, Data Integration|<a href = "">pdf</a>| | | 
 | |3|Managing Heterogeneity|<a href = "">pdf</a>| | | 

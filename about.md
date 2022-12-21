@@ -81,15 +81,6 @@ weightage.
 grade is based on the average score assigned to you by your peers in the class.
 3. Final exam (20%): The final exam will cover the entire semester
 
-## Important Dates
-
-- Assignment 1 Peer Review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Due Week 2
-- Assignment 1 submission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Due Week 4
-- Assignment 2 Peer Review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Due Week 5
-- Assignment 2 submission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Due Week 7
-- Assignment 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Due Week 10
-- Assignment 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Due Week 14
-- Final Exam . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . After Reading Day
 
 ## Late Policy
 
@@ -117,5 +108,3 @@ interferences in eating or sleep can have an impact on academic performance, soc
 - National Suicide Prevention Lifeline (800) 273-8255
 - Rosecrance Crisis Line (217) 359-4141 (available 24/7, 365 days a year)
 If you are in immediate danger call 911
-
-*This is a tentative syllabus and subject to change

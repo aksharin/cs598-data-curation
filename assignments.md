@@ -25,4 +25,5 @@ To do well this lesson, I recommend that you do the following:
   Make sure you take the practice quizzes for this week. They will help you make sure you understood the basics of this week's content.
 
   Take notes while you read the materials and watch the lectures for this week. By taking notes, you are interacting with the material and will find that it is easier to remember and to understand. With your notes, you’ll also find that it’s easier to complete your assignments. So, go ahead, do yourself a favor; take some notes!
+</li>
 <!-- Please change the links to the assignment info pages for the current semester -->

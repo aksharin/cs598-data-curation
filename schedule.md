@@ -49,7 +49,7 @@ description: The weekly event schedule.
 | |5|A Way Forward: Roles and Types|pdf| | | 
 | |6|An Ontology for Data Concepts|pdf| | | 
 | |7|What is data?|pdf| | | 
-|Week 7|1|Week 7 Introduction| |Week 7 Overview|https://www.fidgeo.de/wp-content/uploads/2016/07/2017_01-NISO-understanding-metadata.pdf https://dl.acm.org/doi/10.1145/1107499.1107503  <br /><br />Optional Readings: https://onlinelibrary.wiley.com/doi/10.1002/asi.22683 http://www.ijdc.net/index.php/ijdc/article/view/66 https://pubs.geoscienceworld.org/books/book/641/chapter-abstract/3806354/Geoscience-metadata-No-pain-no-gain?redirectedFrom=fulltext https://www.jstor.org/stable/2269427|Week 7 Quiz| 
+|Week 7|1|Week 7 Introduction| |https://www.fidgeo.de/wp-content/uploads/2016/07/2017_01-NISO-understanding-metadata.pdf https://dl.acm.org/doi/10.1145/1107499.1107503  <br /><br />Optional Readings: https://onlinelibrary.wiley.com/doi/10.1002/asi.22683 http://www.ijdc.net/index.php/ijdc/article/view/66 https://pubs.geoscienceworld.org/books/book/641/chapter-abstract/3806354/Geoscience-metadata-No-pain-no-gain?redirectedFrom=fulltext https://www.jstor.org/stable/2269427|Week 7 Quiz| 
 | |2|What is Metadata?|pdf| | | 
 | |3|Metadata Schemas|pdf| | | 
 | |4|Common Metadata Ambiguities|pdf| | |
@@ -75,7 +75,7 @@ description: The weekly event schedule.
 | |2|Standards and standards organizations|pdf| | |
 | |3|Some standard standards maneuvers|pdf| | | 
 | |4|Compatibility|pdf| | | 
-|Week 12|1|Week 12 Introduction| |Week 12 Overview|https://dl.acm.org/doi/10.1145/2602649.2602651|Week 12 Quiz| 
+|Week 12|1|Week 12 Introduction| |https://dl.acm.org/doi/10.1145/2602649.2602651|Week 12 Quiz| 
 | |2|Workflow|pdf| | | 
 | |3|Provenance|pdf| | | 
 | |4|Workflow Systems|pdf| | | 

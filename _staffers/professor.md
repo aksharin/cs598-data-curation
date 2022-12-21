@@ -8,4 +8,3 @@ officehour: TBD
 officehourlink:  
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }

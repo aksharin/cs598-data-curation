@@ -37,7 +37,7 @@ description: The weekly event schedule.
 | |3|The Solution: Ontologies|pdf| | | 
 | |4|An ER/Ontology Example: FRBR|pdf| | | 
 | |5|Implementing Ontologies in RDF/RDFS|pdf| | | 
-|Week 5|1|Week 5 Introduction| |Week 5 Overview|https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.5998&amp;rep=rep1&amp;type=pdf  <br /><br />Optional Readings https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.7214&amp;rep=rep1&amp;type=pdf|Week 5 Quiz| 
+|Week 5|1|Week 5 Introduction| |https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.5998&amp;rep=rep1&amp;type=pdf  <br /><br />Optional Readings https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.7214&amp;rep=rep1&amp;type=pdf|Week 5 Quiz| 
 | |2|Data Cleaning, Data Integration|pdf| | | 
 | |3|Managing Heterogeneity|pdf| | | 
 | |4|Schema Integration|pdf| | | 

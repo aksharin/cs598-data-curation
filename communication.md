@@ -26,7 +26,7 @@ This course uses Campuswire for communication. This will be your go-to place to 
 <tr>
  <td>{{ staffer.name }}</td>
  <td>{{ staffer.officehour }}</td> 
- <td>[link]({{ staffer.officehourlink }})</td>
+ <td><a href="{{ staffer.officehourlink }}">link</a></td>
 </tr>
 {%- endfor -%}
 </table>

@@ -26,6 +26,15 @@ seo:
 Welcome to CS 598: Foundations of Data Curation! Data curation, a
 critical activity within data science, is “the active and on-going management of data through its lifecycle of interest and usefulness to scholarship, science, and education; curation activities and policies enable data discovery and retrieval, maintain data quality and add value, and provide for re-use over time.” This course provides an overview of a broad range of theoretical and practical problems in the emerging field, examining issues related to data models, data integration, format conversion, authentication and integrity, identifiers, preservation, workflow, provenance, metadata, and legal and policy issues.
 
+## Textbook
+There is no required textbook for this course, but there are weekly required and optional
+readings that can be found in each weekly overview page.
+
+## Prerequisites
+You should enter the course with basic programming skills and a working knowledge
+of markup languages (HTML, XML etc.), Text encoding systems, relational databases and schema
+design, which will be very helpful but not required.
+
 ## Course Expectations
 
 The field of Data Science is a fast-moving, empirically driven research field.Learning about such a fast-moving field is an exciting opportunity but covering it in a traditional course setting comes with some caveats. There are very few high-quality Data Curation textbooks or other learning materials that synthesize or explain much of the content we will cover. In many cases the research paper that introduced an idea is the best or only resource for learning about it. Data exists in different forms and modalities which requires carefully developed curation methods. The focus of this course is not to teach a specific tool or language for data curation but instead help you recognize key challenges in management of data and develop effective strategies to tackle them.

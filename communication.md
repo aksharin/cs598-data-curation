@@ -18,7 +18,6 @@ This course uses Campuswire for communication. This will be your go-to place to 
 
 | Name | Office Hour time | Link |
 | --- | --- | --- |
-| | | |
-{% for staffer in site.staffers %}
-| {{ staffer.name }} | {{ staffer.officehour }} | {{ staffer.officehourlink }}
-{% endfor %}
+{% for staffer in site.staffers -%}
+| {{ staffer.name }} | {{ staffer.officehour }} | [link]({{ staffer.officehourlink }}) |
+{%- endfor -%}

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: home
 title: About
+permalink: /:path/
 description: >-
     Course policies and information.
 ---

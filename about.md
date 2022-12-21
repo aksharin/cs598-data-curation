@@ -37,7 +37,7 @@ design, which will be very helpful but not required.
 
 ## Course Expectations
 
-The field of Data Science is a fast-moving, empirically driven research field.Learning about such a fast-moving field is an exciting opportunity but covering it in a traditional course setting comes with some caveats. There are very few high-quality Data Curation textbooks or other learning materials that synthesize or explain much of the content we will cover. In many cases the research paper that introduced an idea is the best or only resource for learning about it. Data exists in different forms and modalities which requires carefully developed curation methods. The focus of this course is not to teach a specific tool or language for data curation but instead help you recognize key challenges in management of data and develop effective strategies to tackle them.
+The field of Data Science is a fast-moving, empirically driven research field. Learning about such a fast-moving field is an exciting opportunity but covering it in a traditional course setting comes with some caveats. There are very few high-quality Data Curation textbooks or other learning materials that synthesize or explain much of the content we will cover. In many cases the research paper that introduced an idea is the best or only resource for learning about it. Data exists in different forms and modalities which requires carefully developed curation methods. The focus of this course is not to teach a specific tool or language for data curation but instead help you recognize key challenges in management of data and develop effective strategies to tackle them.
 
 
 ## Course Objectives

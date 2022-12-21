@@ -17,13 +17,13 @@ description: A collection of all assignment for the course.
 ## Tips to do well
 To do well this lesson, I recommend that you do the following:
 
-<li>
-  Review the video lectures a number of times to gain a solid understanding of the key questions and concepts introduced this week.
+<ul>
+  <li>Review the video lectures a number of times to gain a solid understanding of the key questions and concepts introduced this week.</li>
 
-  When possible, respond your peers' questions on Campuswire. As a learning community, we can help each other learn and grow. One way of doing this is by   helping to address the questions that your peers pose. By engaging with each other, we’ll all learn better.
+  <li>When possible, respond your peers' questions on Campuswire. As a learning community, we can help each other learn and grow. One way of doing this is by   helping to address the questions that your peers pose. By engaging with each other, we’ll all learn better.</li>
 
-  Make sure you take the practice quizzes for this week. They will help you make sure you understood the basics of this week's content.
+  <li>Make sure you take the practice quizzes for this week. They will help you make sure you understood the basics of this week's content.</li>
 
-  Take notes while you read the materials and watch the lectures for this week. By taking notes, you are interacting with the material and will find that it is easier to remember and to understand. With your notes, you’ll also find that it’s easier to complete your assignments. So, go ahead, do yourself a favor; take some notes!
-</li>
+  <li>Take notes while you read the materials and watch the lectures for this week. By taking notes, you are interacting with the material and will find that it is easier to remember and to understand. With your notes, you’ll also find that it’s easier to complete your assignments. So, go ahead, do yourself a favor; take some notes!</li>
+</ul>
 <!-- Please change the links to the assignment info pages for the current semester -->

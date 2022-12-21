@@ -65,13 +65,13 @@ description: The weekly event schedule.
 | |4|The preservation&lt;—&gt;integration parallels|pdf| | | 
 | |5|Standard data preservation strategies|pdf| | |
 | |6|Two data preservation standards|pdf| | |
-|Week 10|1|Week 10 Introduction| | |Assignment 3 Report Instructions |Week 10 Quiz| 
+|Week 10|1|Week 10 Introduction| | |Week 10 Quiz| 
 | |2|Why is identification important?|pdf| | |
 | |3|What are we identifying?|pdf| | |
 | |4|How do we identify?|pdf| | |
 | |5|Identifiers and Change|pdf| | |
 | |6|A practical example: XML canonicalization|pdf| | |
-|Week 11|Standards|1|Week 11 Introduction| |Week 11 Overview| | |Week 11 Quiz| 
+|Week 11|1|Week 11 Introduction| | |Week 11 Quiz| 
 | |2|Standards and standards organizations|pdf| | |
 | |3|Some standard standards maneuvers|pdf| | | 
 | |4|Compatibility|pdf| | | 

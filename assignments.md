@@ -4,6 +4,8 @@ title: Assignments
 description: A collection of all assignment for the course.
 ---
 
+# Assignments
+
 | Assignment # | Information Page         | Release Date | Due Date |
 |--------------|--------------------------|--------------|----------|
 |            1 | [Assignment 1 Information](https://www.coursera.org/learn/cs-598-fdc/supplement/neWQN/assignment-1-information) |              |          |

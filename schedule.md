@@ -14,10 +14,10 @@ description: The weekly event schedule.
 
 |Week |Lecture #|Lecture Topic|Slides|Reading|Quizzes| 
 |-|-|-|-|-|-|
-|Week 1|1|Introduction| |<li> 
+|Week 1|1|Introduction| |
 	<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a>
 	<a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>
-</li>| Orientation Quiz Week 1 Quiz| 
+| Orientation Quiz Week 1 Quiz| 
 | |2|What is data science?|pdf| | | 
 | |3|What is data curation?|pdf| | | 
 | |4|Objectives, Activities and Methods|pdf| | | 

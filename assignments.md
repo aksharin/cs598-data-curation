@@ -18,7 +18,7 @@ description: A collection of all assignment for the course.
 To do well this lesson, I recommend that you do the following:
 
 <ul>
-  <li>Review the video lectures a number of times to gain a solid understanding of the key questions and concepts introduced this week.</li>
+  <li>Review the video lectures and the required readings a number of times to gain a solid understanding of the key questions and concepts introduced this week.</li>
 
   <li>When possible, respond your peers' questions on Campuswire. As a learning community, we can help each other learn and grow. One way of doing this is by   helping to address the questions that your peers pose. By engaging with each other, we’ll all learn better.</li>
 

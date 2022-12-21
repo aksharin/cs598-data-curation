@@ -20,7 +20,7 @@ description: The weekly event schedule.
 | |3|What is data curation?|<a href = "https://uofi.box.com/s/uhjsoyxcnuowpqm1gghs3x8wmkdm1wy7">pdf</a>| | | 
 | |4|Objectives, Activities and Methods|<a href = "https://uofi.box.com/s/o0khnu62bw1wyxcn9pkqsx4y38g8imr1 ">pdf</a>| | | 
 | |5|Organizations, Conferences and Literature|<a href = "https://uofi.box.com/s/iyoey8hftph6k7w3usekom4dhvy2rexg">pdf</a>| | |
-|Week 2|1|Week 2 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 2 Quiz| 
+|Week 2|1|Week 2 Introduction| |<a href = "https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf"> Reading 1</a>|Week 2 Quiz| 
 | |2|Data Models|<a href = "https://uofi.box.com/s/pk6nhsbmbaov2mekgu5jebky4aoqe7tu">pdf</a>| | |
 | |3|The Problem|<a href = "https://uofi.box.com/s/rosbg45bqvmjjb01wjdpiewdsdox846x">pdf</a>| | |
 | |4|The Relational Model|<a href = "https://uofi.box.com/s/m42ubdod0d4m47y6dhk0sl0q32du7svc">pdf</a>| | | 
@@ -67,32 +67,29 @@ description: The weekly event schedule.
 | |5|Standard data preservation strategies|<a href = "https://uofi.box.com/s/a39etitm4aievhjoqj35d9kjp037az63">pdf</a>| | |
 | |6|Two data preservation standards|<a href = "https://uofi.box.com/s/ssj06oxzsyd8q4vy2gvvgxl68h5mz85v">pdf</a>| | |
 |Week 10|1|Week 10 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a> |Week 10 Quiz| 
-| |2|Why is identification important?|<a href = "">pdf</a>| | |
-| |3|What are we identifying?|<a href = "">pdf</a>| | |
-| |4|How do we identify?|<a href = "">pdf</a>| | |
-| |5|Identifiers and Change|<a href = "">pdf</a>| | |
-| |6|A practical example: XML canonicalization|<a href = "">pdf</a>| | |
+| |2|Why is identification important?|<a href = "https://uofi.box.com/s/880v9d25hkkjg9snbna0houphfit6s14">pdf</a>| | |
+| |3|What are we identifying?|<a href = "https://uofi.box.com/s/cv0l22sa89usekyvjsjouy2aqaljaqhv">pdf</a>| | |
+| |4|How do we identify?|<a href = "https://uofi.box.com/s/ltnvh10q115amc5fajvaik5py9xsx1f0">pdf</a>| | |
+| |5|Identifiers and Change|<a href = "https://uofi.box.com/s/z6bjikbni4eespo6m6hb4yj6uco5hinu">pdf</a>| | |
+| |6|A practical example: XML canonicalization|<a href = "https://uofi.box.com/s/4khi1n6gfvbuj2awqqp1tbx7rsqiytm4">pdf</a>| | |
 |Week 11|1|Week 11 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a> |Week 11 Quiz| 
-| |2|Standards and standards organizations|<a href = "">pdf</a>| | |
-| |3|Some standard standards maneuvers|<a href = "">pdf</a>| | | 
-| |4|Compatibility|<a href = "">pdf</a>| | | 
+| |2|Standards and standards organizations|<a href = "https://uofi.box.com/s/znzd9w1fxhf6y92leg1bgzm5irtuvmhq">pdf</a>| | |
+| |3|Some standard standards maneuvers|<a href = "https://uofi.box.com/s/vyxyzwpegarc0k11vs8uhhpeyufsh8wj">pdf</a>| | | 
+| |4|Compatibility|<a href = "https://uofi.box.com/s/t5huczhphgldxkvoo4pwgnneu3lzmnk5">pdf</a>| | | 
 |Week 12|1|Week 12 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 12 Quiz| 
-| |2|Workflow|<a href = "">pdf</a>| | | 
-| |3|Provenance|<a href = "">pdf</a>| | | 
-| |4|Workflow Systems|<a href = "">pdf</a>| | | 
-| |5|Introduction to Docker by Peter Organisciak|<a href = "">pdf</a>| | | 
-| |6|Provenance Standards|<a href = "">pdf</a>| | |
-|Week 13|1|Week 13 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 13 Quiz| 
-| |2|Communication issues in data curation|<a href = "">pdf</a>| | | 
-| |3|The crisis in data-driven scientific communication|<a href = "">pdf</a>| | | 
-| |4|The solution to the data crisis is...|<a href = "">pdf</a>| | | 
+| |2|Workflow|<a href = "https://uofi.box.com/s/kvqupac1myebc98sjxkkvl6kb32zm5yi">pdf</a>| | | 
+| |3|Provenance|<a href = "https://uofi.box.com/s/17wt48bm1dyyxlxp39jhv31fp2jwryt7">pdf</a>| | | 
+| |4|Workflow Systems|<a href = "https://uofi.box.com/s/87nwo1rb5fgivcio5ft9z43621n701ep">pdf</a>| | | 
+| |5|Introduction to Docker by Peter Organisciak|<a href = "https://uofi.box.com/s/zh8qjfoauo6pzmzn19nq3lcjt1mn6kdm">pdf</a>| | | 
+| |6|Provenance Standards|<a href = "https://uofi.box.com/s/873ty6dax66he9h7grbsjpjqwgqe7kf5">pdf</a>| | |
+|Week 13|1|Week 13 Introduction| |<a href = "https://uofi.box.com/s/wnoxqgwbte3c4qkrpajkzjfopzj252qr"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 13 Quiz| 
+| |2|Communication issues in data curation|<a href = "https://uofi.box.com/s/uf0q0wjspwyjulnuqg2zevl74y5ijb1v">pdf</a>| | | 
+| |3|The crisis in data-driven scientific communication|<a href = "https://uofi.box.com/s/uyyvxu018im36gq8ton8g5729yf3exuo">pdf</a>| | | 
+| |4|The solution to the data crisis is...|<a href = "https://uofi.box.com/s/881ufkhkbb61y6vuc0663bb2fr1ekeb8">pdf</a>| | | 
 |Week 14|-|Thanksgiving Week| | |-| 
 |Week 15|1|Week 15 Introduction| |<a href = "https://www.nsf.gov/geo/geo-data-policies/nsb-0540-1.pdf"> Reading 1</a><br /> <a href = "https://www.nap.edu/catalog/18590/preparing-the-workforce-for-digital-curation."> Reading 2</a>|Week 15 Quiz| 
-| |2|Definitions, types, scope, issues|<a href = "">pdf</a>| | | 
-| |3|A whirlwind tour of science-oriented data policies|<a href = "">pdf</a>| | | 
-| |4|Privacy|<a href = "">pdf</a>| | | 
+| |2|Definitions, types, scope, issues|<a href = "https://uofi.box.com/s/4jfwtk73i4tirv0kc4nzg0dd1wgfl7ib">pdf</a>| | | 
+| |3|A whirlwind tour of science-oriented data policies|<a href = "https://uofi.box.com/s/z0n2w632r54q369nju9rhrmnjcak6vpv">pdf</a>| | | 
+| |4|Privacy|<a href = "https://uofi.box.com/s/zwn0ssivhl719i12lmsl62gtrzx0alf6">pdf</a>| | | 
 | |5|Panel Discussion| | |
 |Week 16|1|Practical Data Curation: What is it?|<a href = "">pdf</a>| | | 
-| |2|Models, Integration &amp; Concepts|<a href = "">pdf</a>| | | 
-| |3|Metadata|<a href = "">pdf</a>| | |
-| |4|Workflow and Provenance|<a href = "">pdf</a>| | |

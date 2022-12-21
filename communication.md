@@ -16,8 +16,17 @@ This course uses Campuswire for communication. This will be your go-to place to 
 ## Staff Office Hour:
 
 
-| Name | Office Hour time | Link |
-| --- | --- | --- |
+<table>
+<tr>
+    <th>Name</th>
+    <th>Office hour time</th>
+    <th>Link</th>
+</tr>
 {% for staffer in site.staffers -%}
-| {{ staffer.name }} | {{ staffer.officehour }} | [link]({{ staffer.officehourlink }}) |
+<tr>
+ <td>{{ staffer.name }}</td>
+ <td>{{ staffer.officehour }}</td> 
+ <td>[link]({{ staffer.officehourlink }})</td>
+</tr>
 {%- endfor -%}
+</table>

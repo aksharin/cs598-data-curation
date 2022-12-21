@@ -15,7 +15,7 @@ description: A collection of all assignment for the course.
 
 
 ## Tips to do well
-To do well this lesson, I recommend that you do the following:
+To do well, It is recommended that you do the following:
 
 <ul>
   <li>Review the video lectures and the required readings a number of times to gain a solid understanding of the key questions and concepts introduced this week.</li>

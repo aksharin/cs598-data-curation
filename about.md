@@ -1,9 +1,13 @@
 ---
 layout: home
 title: About
+nav_exclude: true
 permalink: /:path/
 description: >-
     Course policies and information.
+seo:
+  type: Course
+  name: Just the Class
 ---
 
 # About

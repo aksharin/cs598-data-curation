@@ -1,7 +1,7 @@
 ---
 name: TBD
 role: Teaching Assistant
-email: me@example.com
+email: TBD
 website: 
 photo: 
 officehour: TBD
